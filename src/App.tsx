@@ -30,7 +30,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-purple-900 via-pink-800 to-purple-900">
       {/* Hero Section */}
       <div className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-black/40 z-10 couille"></div>
+        <div className="absolute inset-0 bg-black/40 z-10"></div>
         <img 
           src="https://raw.githubusercontent.com/thmStarKiller/laKikeApp/refs/heads/main/img/lakikepharaonica.jpg"
           alt="Luxury Sauna"
@@ -51,7 +51,7 @@ function App() {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           {/* AI Agent Image */}
-          <div className="rounded-2xl overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300">
+          <div className="rounded-2xl overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300 couille">
             <img 
               src="https://raw.githubusercontent.com/thmStarKiller/laKikeApp/refs/heads/main/img/lakikecholita.png" 
               alt="La Kike AI Agent"
