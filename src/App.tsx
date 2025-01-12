@@ -30,7 +30,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-purple-900 via-pink-800 to-purple-900">
       {/* Hero Section */}
       <div className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-black/40 z-10"></div>
+        <div className="absolute inset-0 bg-black/40 z-10 couille"></div>
         <img 
           src="https://raw.githubusercontent.com/thmStarKiller/laKikeApp/refs/heads/main/img/lakikepharaonica.jpg"
           alt="Luxury Sauna"
