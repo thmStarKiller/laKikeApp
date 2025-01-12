@@ -32,7 +32,7 @@ function App() {
       <div className="relative overflow-hidden">
         <div className="absolute inset-0 bg-black/40 z-10"></div>
         <img 
-          src="img/lakikepharaonica.jpg"
+          src="https://github.com/thmStarKiller/laKikeApp/blob/main/img/lakikepharaonica.jpg"
           alt="Luxury Sauna"
           className="w-full h-[50vh] object-cover"
         />
@@ -53,7 +53,7 @@ function App() {
           {/* AI Agent Image */}
           <div className="rounded-2xl overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300">
             <img 
-              src="img/lakikecholita.png" 
+              src="https://github.com/thmStarKiller/laKikeApp/blob/main/img/lakikecholita.png" 
               alt="La Kike AI Agent"
               className="w-full h-auto lakikeimg"
             />
